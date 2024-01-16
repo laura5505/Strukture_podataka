@@ -1,0 +1,3 @@
+﻿  zad9.c
+C:\Users\Laura Buzuk\source\repos\Zadatak 9\Zadatak 9\zad9.c(36,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Zadatak 9.vcxproj -> C:\Users\Laura Buzuk\source\repos\Zadatak 9\Debug\Zadatak 9.exe
