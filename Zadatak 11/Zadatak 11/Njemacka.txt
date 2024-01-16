@@ -1,0 +1,3 @@
+Berlin 3600000
+München 1500000
+Hamburg 1800000

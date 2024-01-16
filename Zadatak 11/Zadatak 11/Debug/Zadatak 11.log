@@ -1,0 +1,4 @@
+﻿  zad11.c
+C:\Users\Laura Buzuk\source\repos\Zadatak 11\Zadatak 11\zad11.c(95,80): warning C4047: '=': 'PosL' differs in levels of indirection from 'int'
+C:\Users\Laura Buzuk\source\repos\Zadatak 11\Zadatak 11\zad11.c(134,16): warning C4047: 'return': 'int' differs in levels of indirection from 'PosL'
+  Zadatak 11.vcxproj -> C:\Users\Laura Buzuk\source\repos\Zadatak 11\Debug\Zadatak 11.exe
