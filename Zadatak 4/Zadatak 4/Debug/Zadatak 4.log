@@ -1,0 +1,3 @@
+﻿  zada4.c
+c:\users\laura buzuk\source\repos\zadatak 4\zadatak 4\zada4.c(132): warning C4047: 'return': 'position' differs in levels of indirection from 'int'
+  Zadatak 4.vcxproj -> C:\Users\Laura Buzuk\source\repos\Zadatak 4\Debug\Zadatak 4.exe
