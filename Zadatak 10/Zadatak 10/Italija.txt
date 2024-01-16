@@ -1,0 +1,3 @@
+Rim 2800000
+Milano 1400000
+Firenca 380000
